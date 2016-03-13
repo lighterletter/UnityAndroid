@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/c4q-john/Desktop/dev/vr/UnityAndroidSimpleTest/app/libs/unity-classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5f4fab859b09deb0e488d2607a5908ec4e5419da">
+        <dex dex="/Users/c4q-john/Desktop/dev/vr/UnityAndroidSimpleTest/app/build/intermediates/pre-dexed/debug/unity-classes_07da4fbfe8c7e598302bb6b2ebce1f2690ddc00d.jar" />
+    </item>
+
+</items>
